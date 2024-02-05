@@ -1,0 +1,55 @@
+.degrees {
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: initial;
+}
+
+.title_large {
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 28px;
+}
+
+.title_medium {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 24px;
+}
+
+.title_small {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  line-height: 24px;
+}
+
+.body_large {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  line-height: 24px;
+}
+
+.body_medium {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  line-height: 20px;
+}
+
+.body_small {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0.1em;
+  line-height: 16px;
+}
